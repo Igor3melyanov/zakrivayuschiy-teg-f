@@ -126,7 +126,7 @@
 }
 
 .filter-8 {
-  filter: invert(20%);
+  filter: invert(20%) blur(1px);
 }
 
 .card__description {
