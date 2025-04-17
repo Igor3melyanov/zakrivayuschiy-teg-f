@@ -262,4 +262,12 @@
   .dialog[open] {
     padding: 29px 30px;
   }
+
+  .button__icon {
+    transform: scale(0.75);
+  }
+
+  .button__text {
+    margin-inline-start: -4px;
+  }
 }
